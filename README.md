@@ -30,7 +30,7 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gabrielrodriguezp).
 
 - **[react-search-list](https://github.com/gabarod/react-search-list)**: Un proyecto de prueba que implementa una lista de búsqueda en React.
 
-- **[js-challenge](https://github.com/gabarod/js-challenge)**: Un desafío de JavaScript que me permitió demostrar mis habilidades en esta lengua.
+- **[js-challenge](https://github.com/gabarod/js-challenge)**: Un desafío de JavaScript que me permitió demostrar mis habilidades en esta lenguaje.
 
 - **[react-eth-challenge](https://github.com/gabarod/react-eth-challenge)**: Un desafío que me permitió demostrar mis habilidades en React y Ethereum.
 
